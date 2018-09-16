@@ -1,0 +1,5 @@
+List your category descriptors here:
+Things
+Dog
+Human
+Lizard
